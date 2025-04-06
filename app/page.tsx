@@ -128,7 +128,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-8">
         {/* Header with Edit Controls */}
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-2xl font-bold text-primary">Dashboard Grup</h1>
+          <h1 className="text-2xl font-bold text-primary">CITRAQ</h1>
           <div className="flex items-center gap-2">
             <Link href="/settings">
               <Button variant="outline" size="sm" className="text-primary hover:bg-primary/20">
