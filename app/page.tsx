@@ -166,7 +166,7 @@ export default function Home() {
         <div className="mb-8 rounded-lg bg-card p-6 shadow-md text-center">
           <div className="flex justify-center mb-6">
             <div className="relative w-40 h-40 rounded-full overflow-hidden border-4 border-primary">
-              <Image src="/images/group-image.jpg" alt="Group Image" fill className="object-cover" />
+              <Image src="/images/group-image1.jpg" alt="Group Image" fill className="object-cover" />
             </div>
           </div>
           <h1 className="mb-2 text-3xl font-bold text-primary">Selamat Datang!</h1>
