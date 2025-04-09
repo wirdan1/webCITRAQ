@@ -12,7 +12,7 @@ import { useTheme } from "next-themes"
 export default function SettingsPage() {
   const { theme, setTheme } = useTheme()
   const [mounted, setMounted] = useState(false)
-  const [selectedTheme, setSelectedTheme] = useState("green")
+  const [selectedTheme, setSelectedTheme] = useState("black")
 
   // Apply theme color
   const applyThemeColor = (color) => {
