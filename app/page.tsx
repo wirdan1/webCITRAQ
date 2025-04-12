@@ -27,9 +27,9 @@ export default function Home() {
       link: "https://chat.whatsapp.com/JuWvfrWp7bY45c9psBkWH2",
     },
     {
-      name: "Grup Seleksi",
-      description: "Hanya untuk info seleksi member baru",
-      link: "https://chat.whatsapp.com/example2",
+      name: "Saluran Citraq",
+      description: "Hanya untuk info seputar editing dan apk yang dipakai oleh admin,dll",
+      link: "https://whatsapp.com/channel/0029Vb6YaQ00AgWBoHN9XU15",
     },
     {
       name: "Grup Bot",
@@ -50,12 +50,12 @@ export default function Home() {
       bio: "membantu pemasaran dan  kelancaran event dalam grup.",
     },
     {
-      name: "Admin AMV",
+      name: "AMV",
       phone: "+62 852-8283-7155",
       bio: "Pen desain Handal dalam grup.",
     },
     {
-      name: "Admin Teknis",
+      name: "Teknis",
       phone: "+62 895-3231-95263",
       bio: "Menangani masalah teknis dan memastikan grup berjalan dengan lancar. Ahli dalam bidang IT dan media sosial.",
     },
@@ -398,4 +398,3 @@ export default function Home() {
     </div>
   )
 }
-
