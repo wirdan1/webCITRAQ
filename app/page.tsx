@@ -17,14 +17,14 @@ export default function Home() {
 
   // Sample data
   const [welcomeMessage, setWelcomeMessage] = useState(
-    "Selamat datang di halaman informasi grup kami. Di sini Anda dapat menemukan link grup WhatsApp dan informasi kontak admin.",
+    "Selamat datang di halaman informasi grup CITRAQ. Di sini Anda dapat menemukan link grup WhatsApp dan informasi kontak admin.",
   )
 
   const [groups, setGroups] = useState([
     {
-      name: "Grup Utama",
-      description: "Grup diskusi umum untuk semua anggota.",
-      link: "https://chat.whatsapp.com/JuWvfrWp7bY45c9psBkWH2",
+      name: "Grup Sleksi",
+      description: "Grup yabg menentukan kamu layak atau tidak untuk bergabung dengan kami.",
+      link: "https://chat.whatsapp.com/BDsM76CR9ET92HFwDTKnOs",
     },
     {
       name: "Saluran Citraq",
@@ -368,8 +368,8 @@ export default function Home() {
               </CardHeader>
               <CardContent className="pt-6">
                 <p className="text-muted-foreground">
-                  Grup ini dibuat untuk memfasilitasi komunikasi antar anggota. Kami memiliki beberapa grup WhatsApp
-                  dengan tujuan yang berbeda-beda. Silakan bergabung dengan grup yang sesuai dengan kebutuhan Anda. Jika
+                  Website ini dibuat untuk menaruh informasi seputar grup CITRAQ. Kami memiliki beberapa grup WhatsApp
+                  dengan tujuan yang berbeda-beda. Silakan bergabung dengan grup seleksi terlebih dahulu. EZ ACC ? => yesss join sekarang. Jika
                   Anda memiliki pertanyaan, jangan ragu untuk menghubungi admin.
                 </p>
                 <div className="mt-4 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
